@@ -1,1 +1,16 @@
 # Image2pureCSS
+## guide to use
+![](photo_2018-03-25_19-27-07.jpg?raw=true)
+![](photo_2018-03-25_19-27-10.jpg?raw=true)
+![](photo_2018-03-25_19-27-08.jpg?raw=true)
+![](photo_2018-03-25_19-27-21.jpg?raw=true)
+![](photo_2018-03-25_19-27-17.jpg?raw=true)
+![](photo_2018-03-25_19-27-15.jpg?raw=true)
+![](Screen%20Shot%202018-03-26%20at%2012.32.55%20PM.png.jpg?raw=true)
+![](Screen%20Shot%202018-03-26%20at%2012.33.10%20PM.png?raw=true)
+![](photo_2018-03-25_19-27-20.jpg?raw=true)
+![](photo_2018-03-25_19-27-18.jpg?raw=true)
+![](photo_2018-03-25_19-27-25.jpg?raw=true)
+![](photo_2018-03-25_19-27-24.jpg?raw=true)
+![](photo_2018-03-25_19-27-22.jpg?raw=true)
+![](photo_2018-03-25_19-27-26.jpg?raw=true)
