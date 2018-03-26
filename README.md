@@ -1,4 +1,4 @@
-# Image2pureCSS
+# Image2pureCSS Photoshop Script
 ## guide to use
 ![](photo_2018-03-25_19-27-07.jpg?raw=true)
 ![](photo_2018-03-25_19-27-11.jpg?raw=true)
