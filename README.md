@@ -1,7 +1,6 @@
 # Image2pureCSS
 ## guide to use
 ![](photo_2018-03-25_19-27-07.jpg?raw=true)
-![](photo_2018-03-25_19-27-10.jpg?raw=true)
 ![](photo_2018-03-25_19-27-08.jpg?raw=true)
 ![](photo_2018-03-25_19-27-21.jpg?raw=true)
 ![](photo_2018-03-25_19-27-17.jpg?raw=true)
